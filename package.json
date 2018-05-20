@@ -1,0 +1,23 @@
+{
+  "name": "nodejs_sql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazoncustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rksungjin/nodejs_sql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rksungjin/nodejs_sql/issues"
+  },
+  "homepage": "https://github.com/rksungjin/nodejs_sql#readme",
+  "dependencies": {
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0"
+  }
+}

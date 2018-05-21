@@ -100,3 +100,48 @@ function readList() {
 
 //readList();
 //startPurchase();
+
+
+
+// Products table schema: 
+
+// item_id
+// product_name
+// department_name
+// price 
+// stock_quantity
+
+// BAMAZONCUSTOMER.JS
+
+// readListPrompt()
+
+// startPurchasePrompt()
+
+// Retrieve and query all products from database
+
+// Console.log all product data (list)
+
+// Ask which ID of product customer wants to buy and how much
+
+// Feed ID and QUANTITY into then function
+
+// Queries the database for the product matching the ID
+
+// Compares the stock_quantity value to QUANTITY parameter
+
+// IF user is able to purchase, call purchase
+
+// Else, display failure message and call prompt
+    
+//MANAGERVIEW.JS
+
+//selectPrompt()
+  //switch case function to view Products for Sale, Low Inventory, Adding Inventory, Adding New Product
+  
+  //Products for Sale: query all products
+  
+  //Low Inventory: query all products less than specific quantity
+  
+  //Adding Inventory: choice prompt for item id and quantity; query stock add quantity
+  
+  //Adding New Product: post prompt to add new item; query insert new item 

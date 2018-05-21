@@ -101,7 +101,8 @@ function readList() {
 //readList();
 //startPurchase();
 
-
+//PsuedoCode
+//-----------------------------
 
 // Products table schema: 
 

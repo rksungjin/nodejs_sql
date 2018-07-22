@@ -4,7 +4,7 @@ This Amazon like store-front app will take in orders from customers and deplete 
 
 
 # Instructions
-###Challenge #1: Customer View (Minimum Requirement)
+### Challenge #1: Customer View (Minimum Requirement)
 
 Create a MySQL Database called bamazon.
 Then create a Table inside of that database called products.
@@ -32,7 +32,7 @@ However, if your store does have enough of the product, you should fulfill the c
 This means updating the SQL database to reflect the remaining quantity.
 Once the update goes through, show the customer the total cost of their purchase.
 
-###Challenge #2: Manager View (Next Level)
+### Challenge #2: Manager View (Next Level)
 
 Create a new Node application called bamazonManager.js. Running this application will:
 
